@@ -1,7 +1,5 @@
 # How to run
 
-## Clone this repository
-
 ```sh
 git clone https://github.com/NewLandTV/Luck-Game.git
 cd Luck-Game
